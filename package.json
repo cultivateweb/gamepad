@@ -1,0 +1,19 @@
+{
+  "name": "gamepad",
+  "version": "1.0.0",
+  "description": "Gamepad API on JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cultivateweb/gamepad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cultivateweb/gamepad/issues"
+  },
+  "homepage": "https://github.com/cultivateweb/gamepad#readme"
+}
